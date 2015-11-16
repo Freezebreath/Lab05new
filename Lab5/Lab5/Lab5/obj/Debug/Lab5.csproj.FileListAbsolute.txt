@@ -1,1 +1,10 @@
 C:\Users\kkuzyk-cc\Desktop\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\obj\Debug\Lab5.frmLab05.resources
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\kkuzyk-cc\Desktop\Lab05new\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb

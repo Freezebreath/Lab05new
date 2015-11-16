@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace Lab5
 {
-    public partial class Form1 : Form
+    public partial class frmLab05 : Form
     {
-        public Form1()
+        public frmLab05()
         {
             InitializeComponent();
+        }
+
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            if (Convert.ToInt32(txtAge.Text) > 18)
+            {
+                MessageBox.Show("Alcohol in Canada");
+            }
         }
     }
 }
