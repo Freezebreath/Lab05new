@@ -19,9 +19,9 @@ namespace Lab5
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            if (Convert.ToInt32(txtAge.Text) > 21)
+            if (Convert.ToInt32(txtAge.Text) > 16)
             {
-                MessageBox.Show("Alcohol in USA");
+                MessageBox.Show("Alcohol in Germany");
             }
         }
     }
